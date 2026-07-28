@@ -73,19 +73,19 @@ This repository is designed for students, software engineers, and competitive pr
 ## 🎯 Recommended Learning Path
 
 ```mermaid
-graph TD
-    A[Start Here] --> B[Searching Algorithms]
-    A --> C[Sorting Algorithms]
+flowchart TD
+    Start[Start Here] --> Search[Searching Algorithms]
+    Start --> Sort[Sorting Algorithms]
     
-    B --> B1["Basic Searching: Linear & Sentinel"]
-    B1 --> B2["Divide & Conquer: Binary Search & Variants"]
-    B2 --> B3["Advanced: Jump, Exponential, Interpolation"]
-    B3 --> B4["Optimization: Binary Search on Answer"]
+    Search --> S1[Basic Searching: Linear and Sentinel]
+    S1 --> S2[Divide and Conquer: Binary Search and Variants]
+    S2 --> S3[Advanced: Jump, Exponential, Interpolation]
+    S3 --> S4[Optimization: Binary Search on Answer]
     
-    C --> C1["Simple Sorts: Bubble, Selection, Insertion"]
-    C1 --> C2["Efficient Sorts: Merge Sort, Quick Sort, Heap Sort"]
-    C2 --> C3["Diminishing Increment: Shell Sort"]
-    C3 --> C4["Linear-Time Sorts: Counting Sort, Radix Sort"]
+    Sort --> Sort1[Simple Sorts: Bubble, Selection, Insertion]
+    Sort1 --> Sort2[Efficient Sorts: Merge, Quick, Heap Sort]
+    Sort2 --> Sort3[Diminishing Increment: Shell Sort]
+    Sort3 --> Sort4[Linear-Time Sorts: Counting and Radix Sort]
 ```
 
 ---
