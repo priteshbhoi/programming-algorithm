@@ -38,7 +38,7 @@ graph TD
     J --> K{Is v in Queue?}
     K -- No --> L[Push v to Queue, set in_queue_v = true]
     K -- Yes --> I
-    L --> M{count_v > |V|-1?}
+    L --> M{"count_v > |V| - 1?"}
     M -- Yes --> N[Negative Cycle Detected]
     M -- No --> I
     I --> O{More neighbors?}
