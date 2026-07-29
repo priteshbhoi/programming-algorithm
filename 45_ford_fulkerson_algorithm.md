@@ -572,7 +572,7 @@ D) To avoid cycles.
 **Question 3:** What is the worst-case time complexity of the standard Ford-Fulkerson algorithm (using DFS)?
 A) $O(V \cdot E^2)$
 B) $O(V \cdot E)$
-C) $O(E \cdot \text{max\_flow})$
+C) $O(E \cdot \text{max flow})$
 D) $O(V^3)$
 **Correct Answer:** C
 **Explanation:** In the worst case, the algorithm might only add 1 unit of flow per iteration. Finding a path takes $O(E)$, so the total time is proportional to the maximum flow value.

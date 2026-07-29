@@ -5,7 +5,7 @@ Dinic's Algorithm is a strongly polynomial time algorithm for computing the maxi
 
 ## 2. Why Use This Algorithm?
 Dinic's algorithm is significantly faster than the Ford-Fulkerson and Edmonds-Karp algorithms on most networks. 
-- Ford-Fulkerson: $O(E \cdot \text{max\_flow})$
+- Ford-Fulkerson: $O(E \cdot \text{max flow})$
 - Edmonds-Karp: $O(V \cdot E^2)$
 - Dinic's Algorithm: $O(V^2 E)$
 

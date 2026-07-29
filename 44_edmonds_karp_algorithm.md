@@ -633,7 +633,7 @@ The Edmonds-Karp algorithm provides a robust, strongly polynomial solution to th
 
 **Question 2:** What is the time complexity of the Edmonds-Karp algorithm?
 *   A) $O(V E)$
-*   B) $O(E \cdot \text{max\_flow})$
+*   B) $O(E \cdot \text{max flow})$
 *   C) $O(V E^2)$
 *   D) $O(V^2 E)$
 **Correct Answer:** C

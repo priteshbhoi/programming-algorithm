@@ -422,7 +422,7 @@ Where $d$ is number of digits in max key, $n$ is array length, and $k$ is the ra
 - **Using Unstable Subroutine:** Replacing Counting Sort with an unstable sort breaks the entire algorithm.
 - **Ignoring Negative Numbers:** Standard implementation fails on negative integers without offset transformation.
 - **Incorrect Exponent Termination:** Using `<` instead of `<=` or floating point division truncation bugs.
-- **Assuming $\mathcal{O}(n)$ Always:** Forgetting that $d$ grows logarithmically with maximum key size ($d = \log_k(\text{max\_val})$).
+- **Assuming $\mathcal{O}(n)$ Always:** Forgetting that $d$ grows logarithmically with maximum key size ($d = \log_k(\text{max val})$).
 
 ## 18. Interview Questions
 
