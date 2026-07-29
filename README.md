@@ -8,7 +8,7 @@
 
 | Total Categories | Total Algorithms | Completed Guides | Overall Progress |
 | :---: | :---: | :---: | :---: |
-| **21** | **213** | **74 / 213** | `███████░░░░░░░░░░░░░` **34.7%** |
+| **21** | **213** | **75 / 213** | `████████░░░░░░░░░░░` **35.2%** |
 
 ---
 
@@ -175,7 +175,7 @@ This repository is designed for students, software engineers, and competitive pr
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
 | 01 | **N-Queens** | Done | [View Guide](./74_n_queens.md) |
-| 02 | **Sudoku Solver** | Pending | - |
+| 02 | **Sudoku Solver** | Done | [View Guide](./75_sudoku_solver.md) |
 | 03 | **Rat in a Maze** | Pending | - |
 | 04 | **Knight's Tour** | Pending | - |
 | 05 | **Hamiltonian Cycle** | Pending | - |
