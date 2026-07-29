@@ -8,7 +8,7 @@
 
 | Total Categories | Total Algorithms | Completed Guides | Overall Progress |
 | :---: | :---: | :---: | :---: |
-| **21** | **213** | **52 / 213** | `████████░░░░░░░░░░░░` **24.4%** |
+| **21** | **213** | **213 / 213** | `████████████████████` **100.0%** |
 
 ---
 
@@ -20,24 +20,24 @@
   - [🔍 Searching (10/10)](#-searching-1010)
   - [📊 Sorting (20/20)](#-sorting-2020)
   - [🌐 Graph (22/22)](#-graph-2222)
-  - [🧩 Dynamic Programming (0/14)](#-dynamic-programming-014)
-  - [⚡ Greedy (0/4)](#-greedy-04)
-  - [✂️ Divide & Conquer (0/3)](#-divide-conquer-03)
-  - [🔄 Backtracking (0/8)](#-backtracking-08)
-  - [🌿 Branch & Bound (0/4)](#-branch-bound-04)
-  - [🔤 String (0/11)](#-string-011)
-  - [🌲 Tree (0/16)](#-tree-016)
-  - [🏗️ Data Structures (0/9)](#-data-structures-09)
-  - [📦 Compression (0/7)](#-compression-07)
-  - [🔐 Cryptography (0/18)](#-cryptography-018)
-  - [🔢 Numerical (0/10)](#-numerical-010)
-  - [🤖 Machine Learning (0/18)](#-machine-learning-018)
-  - [🧠 Artificial Intelligence (0/9)](#-artificial-intelligence-09)
-  - [📡 Networking (0/7)](#-networking-07)
-  - [💻 Distributed Systems (0/6)](#-distributed-systems-06)
-  - [🗄️ Database (0/6)](#-database-06)
-  - [📐 Geometry (0/6)](#-geometry-06)
-  - [🎲 Randomized (0/5)](#-randomized-05)
+  - [🧩 Dynamic Programming (14/14)](#-dynamic-programming-1414)
+  - [⚡ Greedy (4/4)](#-greedy-44)
+  - [✂️ Divide & Conquer (3/3)](#-divide-conquer-33)
+  - [🔄 Backtracking (8/8)](#-backtracking-88)
+  - [🌿 Branch & Bound (4/4)](#-branch-bound-44)
+  - [🔤 String (11/11)](#-string-1111)
+  - [🌲 Tree (16/16)](#-tree-1616)
+  - [🏗️ Data Structures (9/9)](#-data-structures-99)
+  - [📦 Compression (7/7)](#-compression-77)
+  - [🔐 Cryptography (18/18)](#-cryptography-1818)
+  - [🔢 Numerical (10/10)](#-numerical-1010)
+  - [🤖 Machine Learning (18/18)](#-machine-learning-1818)
+  - [🧠 Artificial Intelligence (9/9)](#-artificial-intelligence-99)
+  - [📡 Networking (7/7)](#-networking-77)
+  - [💻 Distributed Systems (6/6)](#-distributed-systems-66)
+  - [🗄️ Database (6/6)](#-database-66)
+  - [📐 Geometry (6/6)](#-geometry-66)
+  - [🎲 Randomized (5/5)](#-randomized-55)
 - [Algorithm Complexity Cheat Sheet](#-algorithm-complexity-cheat-sheet)
   - [Searching Algorithms](#searching-algorithms)
   - [Sorting Algorithms](#sorting-algorithms)
@@ -59,7 +59,7 @@ This repository is designed for students, software engineers, and competitive pr
 
 - **In-Depth Explanations:** Real-world analogies, step-by-step walkthroughs, and visual ASCII/text representations for every algorithm.
 - **Complexity Analysis:** Best-case, average-case, worst-case time complexities and space complexity breakdowns.
-- **Code Implementations:** Clean, idiomatic implementations in popular programming languages (Python, C++, Java, JavaScript).
+- **Code Implementations:** Clean, idiomatic implementations in popular programming languages (Python, C++, Java, JavaScript, C).
 - **Edge Cases & Pitfalls:** Detailed coverage of boundary conditions, integer overflow issues, and optimization tricks.
 - **Interview & CP Ready:** Common interview questions and competitive programming patterns related to each technique.
 
@@ -134,256 +134,256 @@ This repository is designed for students, software engineers, and competitive pr
 | 21 | **Kahn's Algorithm** | Done | [View Guide](./51_kahns_algorithm.md) |
 | 22 | **SPFA** | Done | [View Guide](./52_spfa_algorithm.md) |
 
-### 🧩 Dynamic Programming (0/14)
+### 🧩 Dynamic Programming (14/14)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Fibonacci DP** | Pending | - |
-| 02 | **Knapsack (0/1)** | Pending | - |
-| 03 | **Fractional Knapsack** | Pending | - |
-| 04 | **Coin Change** | Pending | - |
-| 05 | **Rod Cutting** | Pending | - |
-| 06 | **Matrix Chain Multiplication** | Pending | - |
-| 07 | **Longest Common Subsequence** | Pending | - |
-| 08 | **Longest Common Substring** | Pending | - |
-| 09 | **Longest Increasing Subsequence** | Pending | - |
-| 10 | **Edit Distance** | Pending | - |
-| 11 | **Egg Dropping** | Pending | - |
-| 12 | **Subset Sum** | Pending | - |
-| 13 | **Partition Problem** | Pending | - |
-| 14 | **Kadane's Algorithm** | Pending | - |
+| 01 | **Fibonacci DP** | Done | [View Guide](./53_fibonacci_dp.md) |
+| 02 | **Knapsack (0/1)** | Done | [View Guide](./54_knapsack_01.md) |
+| 03 | **Fractional Knapsack** | Done | [View Guide](./55_fractional_knapsack.md) |
+| 04 | **Coin Change** | Done | [View Guide](./56_coin_change.md) |
+| 05 | **Rod Cutting** | Done | [View Guide](./57_rod_cutting.md) |
+| 06 | **Matrix Chain Multiplication** | Done | [View Guide](./58_matrix_chain_multiplication.md) |
+| 07 | **Longest Common Subsequence** | Done | [View Guide](./59_longest_common_subsequence.md) |
+| 08 | **Longest Common Substring** | Done | [View Guide](./60_longest_common_substring.md) |
+| 09 | **Longest Increasing Subsequence** | Done | [View Guide](./61_longest_increasing_subsequence.md) |
+| 10 | **Edit Distance** | Done | [View Guide](./62_edit_distance.md) |
+| 11 | **Egg Dropping** | Done | [View Guide](./63_egg_dropping.md) |
+| 12 | **Subset Sum** | Done | [View Guide](./64_subset_sum.md) |
+| 13 | **Partition Problem** | Done | [View Guide](./65_partition_problem.md) |
+| 14 | **Kadane's Algorithm** | Done | [View Guide](./66_kadanes_algorithm.md) |
 
-### ⚡ Greedy (0/4)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **Huffman Coding** | Pending | - |
-| 02 | **Activity Selection** | Pending | - |
-| 03 | **Job Sequencing** | Pending | - |
-| 04 | **Optimal Merge Pattern** | Pending | - |
-
-### ✂️ Divide & Conquer (0/3)
+### ⚡ Greedy (4/4)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Closest Pair of Points** | Pending | - |
-| 02 | **Strassen Matrix Multiplication** | Pending | - |
-| 03 | **Karatsuba Multiplication** | Pending | - |
+| 01 | **Huffman Coding** | Done | [View Guide](./67_huffman_coding.md) |
+| 02 | **Activity Selection** | Done | [View Guide](./68_activity_selection.md) |
+| 03 | **Job Sequencing** | Done | [View Guide](./69_job_sequencing.md) |
+| 04 | **Optimal Merge Pattern** | Done | [View Guide](./70_optimal_merge_pattern.md) |
 
-### 🔄 Backtracking (0/8)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **N-Queens** | Pending | - |
-| 02 | **Sudoku Solver** | Pending | - |
-| 03 | **Rat in a Maze** | Pending | - |
-| 04 | **Knight's Tour** | Pending | - |
-| 05 | **Hamiltonian Cycle** | Pending | - |
-| 06 | **Graph Coloring** | Pending | - |
-| 07 | **Permutation Generation** | Pending | - |
-| 08 | **Combination Generation** | Pending | - |
-
-### 🌿 Branch & Bound (0/4)
+### ✂️ Divide & Conquer (3/3)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Traveling Salesman** | Pending | - |
-| 02 | **Job Assignment** | Pending | - |
-| 03 | **Knapsack (Branch & Bound)** | Pending | - |
-| 04 | **8 Puzzle** | Pending | - |
+| 01 | **Closest Pair of Points** | Done | [View Guide](./71_closest_pair_of_points.md) |
+| 02 | **Strassen Matrix Multiplication** | Done | [View Guide](./72_strassen_matrix_multiplication.md) |
+| 03 | **Karatsuba Multiplication** | Done | [View Guide](./73_karatsuba_multiplication.md) |
 
-### 🔤 String (0/11)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **Knuth-Morris-Pratt (KMP)** | Pending | - |
-| 02 | **Rabin-Karp** | Pending | - |
-| 03 | **Boyer-Moore** | Pending | - |
-| 04 | **Z Algorithm** | Pending | - |
-| 05 | **Aho-Corasick** | Pending | - |
-| 06 | **Manacher's Algorithm** | Pending | - |
-| 07 | **Suffix Array** | Pending | - |
-| 08 | **Suffix Tree** | Pending | - |
-| 09 | **Trie Search** | Pending | - |
-| 10 | **Prefix Function** | Pending | - |
-| 11 | **Rolling Hash** | Pending | - |
-
-### 🌲 Tree (0/16)
+### 🔄 Backtracking (8/8)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Inorder Traversal** | Pending | - |
-| 02 | **Preorder Traversal** | Pending | - |
-| 03 | **Postorder Traversal** | Pending | - |
-| 04 | **Level Order Traversal** | Pending | - |
-| 05 | **Morris Traversal** | Pending | - |
-| 06 | **AVL Tree** | Pending | - |
-| 07 | **Red-Black Tree** | Pending | - |
-| 08 | **B-Tree** | Pending | - |
-| 09 | **B+ Tree** | Pending | - |
-| 10 | **Segment Tree** | Pending | - |
-| 11 | **Fenwick Tree** | Pending | - |
-| 12 | **Binary Indexed Tree** | Pending | - |
-| 13 | **Heavy-Light Decomposition** | Pending | - |
-| 14 | **Lowest Common Ancestor** | Pending | - |
-| 15 | **Euler Tour** | Pending | - |
-| 16 | **Tree Diameter** | Pending | - |
+| 01 | **N-Queens** | Done | [View Guide](./74_n_queens.md) |
+| 02 | **Sudoku Solver** | Done | [View Guide](./75_sudoku_solver.md) |
+| 03 | **Rat in a Maze** | Done | [View Guide](./76_rat_in_a_maze.md) |
+| 04 | **Knight's Tour** | Done | [View Guide](./77_knights_tour.md) |
+| 05 | **Hamiltonian Cycle** | Done | [View Guide](./78_hamiltonian_cycle.md) |
+| 06 | **Graph Coloring** | Done | [View Guide](./79_graph_coloring.md) |
+| 07 | **Permutation Generation** | Done | [View Guide](./80_permutation_generation.md) |
+| 08 | **Combination Generation** | Done | [View Guide](./81_combination_generation.md) |
 
-### 🏗️ Data Structures (0/9)
+### 🌿 Branch & Bound (4/4)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Union-Find** | Pending | - |
-| 02 | **Bloom Filter** | Pending | - |
-| 03 | **Skip List** | Pending | - |
-| 04 | **Hashing** | Pending | - |
-| 05 | **Consistent Hashing** | Pending | - |
-| 06 | **Cuckoo Hashing** | Pending | - |
-| 07 | **Robin Hood Hashing** | Pending | - |
-| 08 | **LRU Cache** | Pending | - |
-| 09 | **LFU Cache** | Pending | - |
+| 01 | **Traveling Salesman** | Done | [View Guide](./82_traveling_salesman.md) |
+| 02 | **Job Assignment** | Done | [View Guide](./83_job_assignment.md) |
+| 03 | **Knapsack (Branch & Bound)** | Done | [View Guide](./84_knapsack_branch_and_bound.md) |
+| 04 | **8 Puzzle** | Done | [View Guide](./85_8_puzzle.md) |
 
-### 📦 Compression (0/7)
+### 🔤 String (11/11)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **LZW** | Pending | - |
-| 02 | **LZ77** | Pending | - |
-| 03 | **LZ78** | Pending | - |
-| 04 | **DEFLATE** | Pending | - |
-| 05 | **Run-Length Encoding** | Pending | - |
-| 06 | **Burrows-Wheeler Transform** | Pending | - |
-| 07 | **Arithmetic Coding** | Pending | - |
+| 01 | **Knuth-Morris-Pratt (KMP)** | Done | [View Guide](./86_knuth_morris_pratt_kmp.md) |
+| 02 | **Rabin-Karp** | Done | [View Guide](./87_rabin_karp.md) |
+| 03 | **Boyer-Moore** | Done | [View Guide](./88_boyer_moore.md) |
+| 04 | **Z Algorithm** | Done | [View Guide](./89_z_algorithm.md) |
+| 05 | **Aho-Corasick** | Done | [View Guide](./90_aho_corasick.md) |
+| 06 | **Manacher's Algorithm** | Done | [View Guide](./91_manachers_algorithm.md) |
+| 07 | **Suffix Array** | Done | [View Guide](./92_suffix_array.md) |
+| 08 | **Suffix Tree** | Done | [View Guide](./93_suffix_tree.md) |
+| 09 | **Trie Search** | Done | [View Guide](./94_trie_search.md) |
+| 10 | **Prefix Function** | Done | [View Guide](./95_prefix_function.md) |
+| 11 | **Rolling Hash** | Done | [View Guide](./96_rolling_hash.md) |
 
-### 🔐 Cryptography (0/18)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **RSA** | Pending | - |
-| 02 | **AES** | Pending | - |
-| 03 | **DES** | Pending | - |
-| 04 | **Triple DES** | Pending | - |
-| 05 | **Blowfish** | Pending | - |
-| 06 | **Twofish** | Pending | - |
-| 07 | **ChaCha20** | Pending | - |
-| 08 | **Diffie-Hellman** | Pending | - |
-| 09 | **ElGamal** | Pending | - |
-| 10 | **ECC** | Pending | - |
-| 11 | **SHA-1** | Pending | - |
-| 12 | **SHA-2** | Pending | - |
-| 13 | **SHA-3** | Pending | - |
-| 14 | **MD5** | Pending | - |
-| 15 | **HMAC** | Pending | - |
-| 16 | **PBKDF2** | Pending | - |
-| 17 | **Argon2** | Pending | - |
-| 18 | **bcrypt** | Pending | - |
-
-### 🔢 Numerical (0/10)
+### 🌲 Tree (16/16)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Newton-Raphson** | Pending | - |
-| 02 | **Bisection Method** | Pending | - |
-| 03 | **Secant Method** | Pending | - |
-| 04 | **Gaussian Elimination** | Pending | - |
-| 05 | **LU Decomposition** | Pending | - |
-| 06 | **QR Decomposition** | Pending | - |
-| 07 | **Fast Fourier Transform (FFT)** | Pending | - |
-| 08 | **Cooley-Tukey FFT** | Pending | - |
-| 09 | **Euclidean Algorithm** | Pending | - |
-| 10 | **Extended Euclidean Algorithm** | Pending | - |
+| 01 | **Inorder Traversal** | Done | [View Guide](./97_inorder_traversal.md) |
+| 02 | **Preorder Traversal** | Done | [View Guide](./98_preorder_traversal.md) |
+| 03 | **Postorder Traversal** | Done | [View Guide](./99_postorder_traversal.md) |
+| 04 | **Level Order Traversal** | Done | [View Guide](./100_level_order_traversal.md) |
+| 05 | **Morris Traversal** | Done | [View Guide](./101_morris_traversal.md) |
+| 06 | **AVL Tree** | Done | [View Guide](./102_avl_tree.md) |
+| 07 | **Red-Black Tree** | Done | [View Guide](./103_red_black_tree.md) |
+| 08 | **B-Tree** | Done | [View Guide](./104_b_tree.md) |
+| 09 | **B+ Tree** | Done | [View Guide](./105_b_plus_tree.md) |
+| 10 | **Segment Tree** | Done | [View Guide](./106_segment_tree.md) |
+| 11 | **Fenwick Tree** | Done | [View Guide](./107_fenwick_tree.md) |
+| 12 | **Binary Indexed Tree** | Done | [View Guide](./108_binary_indexed_tree.md) |
+| 13 | **Heavy-Light Decomposition** | Done | [View Guide](./109_heavy_light_decomposition.md) |
+| 14 | **Lowest Common Ancestor** | Done | [View Guide](./110_lowest_common_ancestor.md) |
+| 15 | **Euler Tour** | Done | [View Guide](./111_euler_tour.md) |
+| 16 | **Tree Diameter** | Done | [View Guide](./112_tree_diameter.md) |
 
-### 🤖 Machine Learning (0/18)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **Linear Regression** | Pending | - |
-| 02 | **Logistic Regression** | Pending | - |
-| 03 | **Decision Tree** | Pending | - |
-| 04 | **Random Forest** | Pending | - |
-| 05 | **XGBoost** | Pending | - |
-| 06 | **LightGBM** | Pending | - |
-| 07 | **CatBoost** | Pending | - |
-| 08 | **Support Vector Machine** | Pending | - |
-| 09 | **Naive Bayes** | Pending | - |
-| 10 | **K-Nearest Neighbors** | Pending | - |
-| 11 | **K-Means** | Pending | - |
-| 12 | **DBSCAN** | Pending | - |
-| 13 | **Hierarchical Clustering** | Pending | - |
-| 14 | **PCA** | Pending | - |
-| 15 | **Gradient Descent** | Pending | - |
-| 16 | **Stochastic Gradient Descent** | Pending | - |
-| 17 | **Adam Optimizer** | Pending | - |
-| 18 | **Apriori** | Pending | - |
-
-### 🧠 Artificial Intelligence (0/9)
+### 🏗️ Data Structures (9/9)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Minimax** | Pending | - |
-| 02 | **Alpha-Beta Pruning** | Pending | - |
-| 03 | **Beam Search** | Pending | - |
-| 04 | **Hill Climbing** | Pending | - |
-| 05 | **Simulated Annealing** | Pending | - |
-| 06 | **Genetic Algorithm** | Pending | - |
-| 07 | **Ant Colony Optimization** | Pending | - |
-| 08 | **Particle Swarm Optimization** | Pending | - |
-| 09 | **Monte Carlo Tree Search** | Pending | - |
+| 01 | **Union-Find** | Done | [View Guide](./113_union_find.md) |
+| 02 | **Bloom Filter** | Done | [View Guide](./114_bloom_filter.md) |
+| 03 | **Skip List** | Done | [View Guide](./115_skip_list.md) |
+| 04 | **Hashing** | Done | [View Guide](./116_hashing.md) |
+| 05 | **Consistent Hashing** | Done | [View Guide](./117_consistent_hashing.md) |
+| 06 | **Cuckoo Hashing** | Done | [View Guide](./118_cuckoo_hashing.md) |
+| 07 | **Robin Hood Hashing** | Done | [View Guide](./119_robin_hood_hashing.md) |
+| 08 | **LRU Cache** | Done | [View Guide](./120_lru_cache.md) |
+| 09 | **LFU Cache** | Done | [View Guide](./121_lfu_cache.md) |
 
-### 📡 Networking (0/7)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **Distance Vector Routing** | Pending | - |
-| 02 | **Link State Routing** | Pending | - |
-| 03 | **Bellman-Ford Routing** | Pending | - |
-| 04 | **Dijkstra Routing** | Pending | - |
-| 05 | **CRC** | Pending | - |
-| 06 | **Hamming Code** | Pending | - |
-| 07 | **TCP Congestion Control** | Pending | - |
-
-### 💻 Distributed Systems (0/6)
+### 📦 Compression (7/7)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Paxos** | Pending | - |
-| 02 | **Raft** | Pending | - |
-| 03 | **Chandy-Lamport Snapshot** | Pending | - |
-| 04 | **MapReduce** | Pending | - |
-| 05 | **Gossip Protocol** | Pending | - |
-| 06 | **Consistent Hashing** | Pending | - |
+| 01 | **LZW** | Done | [View Guide](./122_lzw.md) |
+| 02 | **LZ77** | Done | [View Guide](./123_lz77.md) |
+| 03 | **LZ78** | Done | [View Guide](./124_lz78.md) |
+| 04 | **DEFLATE** | Done | [View Guide](./125_deflate.md) |
+| 05 | **Run-Length Encoding** | Done | [View Guide](./126_run_length_encoding.md) |
+| 06 | **Burrows-Wheeler Transform** | Done | [View Guide](./127_burrows_wheeler_transform.md) |
+| 07 | **Arithmetic Coding** | Done | [View Guide](./128_arithmetic_coding.md) |
 
-### 🗄️ Database (0/6)
-
-| # | Algorithm | Status | Guide Link |
-|---|---|:---:|---|
-| 01 | **Hash Join** | Pending | - |
-| 02 | **Merge Join** | Pending | - |
-| 03 | **Nested Loop Join** | Pending | - |
-| 04 | **B+ Tree Index** | Pending | - |
-| 05 | **Query Optimization** | Pending | - |
-| 06 | **MVCC** | Pending | - |
-
-### 📐 Geometry (0/6)
+### 🔐 Cryptography (18/18)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Graham Scan** | Pending | - |
-| 02 | **Jarvis March** | Pending | - |
-| 03 | **Convex Hull** | Pending | - |
-| 04 | **Bresenham Line Algorithm** | Pending | - |
-| 05 | **Delaunay Triangulation** | Pending | - |
-| 06 | **Voronoi Diagram** | Pending | - |
+| 01 | **RSA** | Done | [View Guide](./129_rsa.md) |
+| 02 | **AES** | Done | [View Guide](./130_aes.md) |
+| 03 | **DES** | Done | [View Guide](./131_des.md) |
+| 04 | **Triple DES** | Done | [View Guide](./132_triple_des.md) |
+| 05 | **Blowfish** | Done | [View Guide](./133_blowfish.md) |
+| 06 | **Twofish** | Done | [View Guide](./134_twofish.md) |
+| 07 | **ChaCha20** | Done | [View Guide](./135_chacha20.md) |
+| 08 | **Diffie-Hellman** | Done | [View Guide](./136_diffie_hellman.md) |
+| 09 | **ElGamal** | Done | [View Guide](./137_elgamal.md) |
+| 10 | **ECC** | Done | [View Guide](./138_ecc.md) |
+| 11 | **SHA-1** | Done | [View Guide](./139_sha1.md) |
+| 12 | **SHA-2** | Done | [View Guide](./140_sha2.md) |
+| 13 | **SHA-3** | Done | [View Guide](./141_sha3.md) |
+| 14 | **MD5** | Done | [View Guide](./142_md5.md) |
+| 15 | **HMAC** | Done | [View Guide](./143_hmac.md) |
+| 16 | **PBKDF2** | Done | [View Guide](./144_pbkdf2.md) |
+| 17 | **Argon2** | Done | [View Guide](./145_argon2.md) |
+| 18 | **bcrypt** | Done | [View Guide](./146_bcrypt.md) |
 
-### 🎲 Randomized (0/5)
+### 🔢 Numerical (10/10)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Monte Carlo** | Pending | - |
-| 02 | **Las Vegas** | Pending | - |
-| 03 | **Reservoir Sampling** | Pending | - |
-| 04 | **Fisher-Yates Shuffle** | Pending | - |
-| 05 | **Randomized QuickSort** | Pending | - |
+| 01 | **Newton-Raphson** | Done | [View Guide](./147_newton_raphson.md) |
+| 02 | **Bisection Method** | Done | [View Guide](./148_bisection_method.md) |
+| 03 | **Secant Method** | Done | [View Guide](./149_secant_method.md) |
+| 04 | **Gaussian Elimination** | Done | [View Guide](./150_gaussian_elimination.md) |
+| 05 | **LU Decomposition** | Done | [View Guide](./151_lu_decomposition.md) |
+| 06 | **QR Decomposition** | Done | [View Guide](./152_qr_decomposition.md) |
+| 07 | **Fast Fourier Transform (FFT)** | Done | [View Guide](./153_fast_fourier_transform.md) |
+| 08 | **Cooley-Tukey FFT** | Done | [View Guide](./154_cooley_tukey_fft.md) |
+| 09 | **Euclidean Algorithm** | Done | [View Guide](./155_euclidean_algorithm.md) |
+| 10 | **Extended Euclidean Algorithm** | Done | [View Guide](./156_extended_euclidean_algorithm.md) |
+
+### 🤖 Machine Learning (18/18)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Linear Regression** | Done | [View Guide](./157_linear_regression.md) |
+| 02 | **Logistic Regression** | Done | [View Guide](./158_logistic_regression.md) |
+| 03 | **Decision Tree** | Done | [View Guide](./159_decision_tree.md) |
+| 04 | **Random Forest** | Done | [View Guide](./160_random_forest.md) |
+| 05 | **XGBoost** | Done | [View Guide](./161_xgboost.md) |
+| 06 | **LightGBM** | Done | [View Guide](./162_lightgbm.md) |
+| 07 | **CatBoost** | Done | [View Guide](./163_catboost.md) |
+| 08 | **Support Vector Machine** | Done | [View Guide](./164_support_vector_machine.md) |
+| 09 | **Naive Bayes** | Done | [View Guide](./165_naive_bayes.md) |
+| 10 | **K-Nearest Neighbors** | Done | [View Guide](./166_k_nearest_neighbors.md) |
+| 11 | **K-Means** | Done | [View Guide](./167_k_means.md) |
+| 12 | **DBSCAN** | Done | [View Guide](./168_dbscan.md) |
+| 13 | **Hierarchical Clustering** | Done | [View Guide](./169_hierarchical_clustering.md) |
+| 14 | **PCA** | Done | [View Guide](./170_pca.md) |
+| 15 | **Gradient Descent** | Done | [View Guide](./171_gradient_descent.md) |
+| 16 | **Stochastic Gradient Descent** | Done | [View Guide](./172_stochastic_gradient_descent.md) |
+| 17 | **Adam Optimizer** | Done | [View Guide](./173_adam_optimizer.md) |
+| 18 | **Apriori** | Done | [View Guide](./174_apriori.md) |
+
+### 🧠 Artificial Intelligence (9/9)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Minimax** | Done | [View Guide](./175_minimax.md) |
+| 02 | **Alpha-Beta Pruning** | Done | [View Guide](./176_alpha_beta_pruning.md) |
+| 03 | **Beam Search** | Done | [View Guide](./177_beam_search.md) |
+| 04 | **Hill Climbing** | Done | [View Guide](./178_hill_climbing.md) |
+| 05 | **Simulated Annealing** | Done | [View Guide](./179_simulated_annealing.md) |
+| 06 | **Genetic Algorithm** | Done | [View Guide](./180_genetic_algorithm.md) |
+| 07 | **Ant Colony Optimization** | Done | [View Guide](./181_ant_colony_optimization.md) |
+| 08 | **Particle Swarm Optimization** | Done | [View Guide](./182_particle_swarm_optimization.md) |
+| 09 | **Monte Carlo Tree Search** | Done | [View Guide](./183_monte_carlo_tree_search.md) |
+
+### 📡 Networking (7/7)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Distance Vector Routing** | Done | [View Guide](./184_distance_vector_routing.md) |
+| 02 | **Link State Routing** | Done | [View Guide](./185_link_state_routing.md) |
+| 03 | **Bellman-Ford Routing** | Done | [View Guide](./186_bellman_ford_routing.md) |
+| 04 | **Dijkstra Routing** | Done | [View Guide](./187_dijkstra_routing.md) |
+| 05 | **CRC** | Done | [View Guide](./188_crc.md) |
+| 06 | **Hamming Code** | Done | [View Guide](./189_hamming_code.md) |
+| 07 | **TCP Congestion Control** | Done | [View Guide](./190_tcp_congestion_control.md) |
+
+### 💻 Distributed Systems (6/6)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Paxos** | Done | [View Guide](./191_paxos.md) |
+| 02 | **Raft** | Done | [View Guide](./192_raft.md) |
+| 03 | **Chandy-Lamport Snapshot** | Done | [View Guide](./193_chandy_lamport_snapshot.md) |
+| 04 | **MapReduce** | Done | [View Guide](./194_mapreduce.md) |
+| 05 | **Gossip Protocol** | Done | [View Guide](./195_gossip_protocol.md) |
+| 06 | **Consistent Hashing** | Done | [View Guide](./196_consistent_hashing.md) |
+
+### 🗄️ Database (6/6)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Hash Join** | Done | [View Guide](./197_hash_join.md) |
+| 02 | **Merge Join** | Done | [View Guide](./198_merge_join.md) |
+| 03 | **Nested Loop Join** | Done | [View Guide](./199_nested_loop_join.md) |
+| 04 | **B+ Tree Index** | Done | [View Guide](./200_b_plus_tree_index.md) |
+| 05 | **Query Optimization** | Done | [View Guide](./201_query_optimization.md) |
+| 06 | **MVCC** | Done | [View Guide](./202_mvcc.md) |
+
+### 📐 Geometry (6/6)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Graham Scan** | Done | [View Guide](./203_graham_scan.md) |
+| 02 | **Jarvis March** | Done | [View Guide](./204_jarvis_march.md) |
+| 03 | **Convex Hull** | Done | [View Guide](./205_convex_hull.md) |
+| 04 | **Bresenham Line Algorithm** | Done | [View Guide](./206_bresenham_line_algorithm.md) |
+| 05 | **Delaunay Triangulation** | Done | [View Guide](./207_delaunay_triangulation.md) |
+| 06 | **Voronoi Diagram** | Done | [View Guide](./208_voronoi_diagram.md) |
+
+### 🎲 Randomized (5/5)
+
+| # | Algorithm | Status | Guide Link |
+|---|---|:---:|---|
+| 01 | **Monte Carlo** | Done | [View Guide](./209_monte_carlo.md) |
+| 02 | **Las Vegas** | Done | [View Guide](./210_las_vegas.md) |
+| 03 | **Reservoir Sampling** | Done | [View Guide](./211_reservoir_sampling.md) |
+| 04 | **Fisher-Yates Shuffle** | Done | [View Guide](./212_fisher_yates_shuffle.md) |
+| 05 | **Randomized QuickSort** | Done | [View Guide](./213_randomized_quicksort.md) |
 
 ---
 
@@ -467,7 +467,7 @@ Each algorithm markdown file follows a structured layout:
 4. **Prerequisites & Core Concepts**: Concepts required before tackling the implementation.
 5. **Visualization**: Conceptual diagrams and step-by-step state representations.
 6. **Step-by-Step Algorithm & Pseudocode**: Clear procedural blueprint.
-7. **Complete Code Implementations**: Verified source code in Python, C++, Java, and JavaScript.
+7. **Complete Code Implementations**: Verified source code in Python, C++, Java, JavaScript, and C.
 8. **Complexity Analysis & Proofs**: Detailed mathematical breakdown of time and space complexities.
 9. **Edge Cases, Hazards & Optimization**: Handing duplicates, overflow, empty inputs, etc.
 10. **Comparison Matrix**: Contrast against similar algorithms.
