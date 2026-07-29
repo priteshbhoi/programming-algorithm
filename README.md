@@ -8,7 +8,7 @@
 
 | Total Categories | Total Algorithms | Completed Guides | Overall Progress |
 | :---: | :---: | :---: | :---: |
-| **21** | **213** | **75 / 213** | `████████░░░░░░░░░░░` **35.2%** |
+| **21** | **213** | **110 / 213** | `██████████░░░░░░░░░` **51.6%** |
 
 ---
 
@@ -25,8 +25,8 @@
   - [✂️ Divide & Conquer (3/3)](#-divide-conquer-33)
   - [🔄 Backtracking (1/8)](#-backtracking-18)
   - [🌿 Branch & Bound (0/4)](#-branch-bound-04)
-  - [🔤 String (0/11)](#-string-011)
-  - [🌲 Tree (0/16)](#-tree-016)
+  - [🔤 String (11/11)](#-string-1111)
+  - [🌲 Tree (14/16)](#-tree-1416)
   - [🏗️ Data Structures (0/9)](#-data-structures-09)
   - [📦 Compression (0/7)](#-compression-07)
   - [🔐 Cryptography (0/18)](#-cryptography-018)
@@ -192,40 +192,40 @@ This repository is designed for students, software engineers, and competitive pr
 | 03 | **Knapsack (Branch & Bound)** | Pending | - |
 | 04 | **8 Puzzle** | Pending | - |
 
-### 🔤 String (0/11)
+### 🔤 String (11/11)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Knuth-Morris-Pratt (KMP)** | Pending | - |
-| 02 | **Rabin-Karp** | Pending | - |
-| 03 | **Boyer-Moore** | Pending | - |
-| 04 | **Z Algorithm** | Pending | - |
-| 05 | **Aho-Corasick** | Pending | - |
-| 06 | **Manacher's Algorithm** | Pending | - |
-| 07 | **Suffix Array** | Pending | - |
-| 08 | **Suffix Tree** | Pending | - |
-| 09 | **Trie Search** | Pending | - |
-| 10 | **Prefix Function** | Pending | - |
-| 11 | **Rolling Hash** | Pending | - |
+| 01 | **Knuth-Morris-Pratt (KMP)** | Done | [View Guide](./80_kmp_algorithm.md) |
+| 02 | **Rabin-Karp** | Done | [View Guide](./81_rabin_karp.md) |
+| 03 | **Boyer-Moore** | Done | [View Guide](./82_boyer_moore.md) |
+| 04 | **Z Algorithm** | Done | [View Guide](./83_z_algorithm.md) |
+| 05 | **Aho-Corasick** | Done | [View Guide](./84_aho_corasick.md) |
+| 06 | **Manacher's Algorithm** | Done | [View Guide](./91_manachers_algorithm.md) |
+| 07 | **Suffix Array** | Done | [View Guide](./92_suffix_array.md) |
+| 08 | **Suffix Tree** | Done | [View Guide](./93_suffix_tree.md) |
+| 09 | **Trie Search** | Done | [View Guide](./94_trie_search.md) |
+| 10 | **Prefix Function** | Done | [View Guide](./95_prefix_function.md) |
+| 11 | **Rolling Hash** | Done | [View Guide](./96_rolling_hash.md) |
 
-### 🌲 Tree (0/16)
+### 🌲 Tree (14/16)
 
 | # | Algorithm | Status | Guide Link |
 |---|---|:---:|---|
-| 01 | **Inorder Traversal** | Pending | - |
-| 02 | **Preorder Traversal** | Pending | - |
-| 03 | **Postorder Traversal** | Pending | - |
-| 04 | **Level Order Traversal** | Pending | - |
-| 05 | **Morris Traversal** | Pending | - |
-| 06 | **AVL Tree** | Pending | - |
-| 07 | **Red-Black Tree** | Pending | - |
-| 08 | **B-Tree** | Pending | - |
-| 09 | **B+ Tree** | Pending | - |
-| 10 | **Segment Tree** | Pending | - |
-| 11 | **Fenwick Tree** | Pending | - |
-| 12 | **Binary Indexed Tree** | Pending | - |
-| 13 | **Heavy-Light Decomposition** | Pending | - |
-| 14 | **Lowest Common Ancestor** | Pending | - |
+| 01 | **Inorder Traversal** | Done | [View Guide](./97_inorder_traversal.md) |
+| 02 | **Preorder Traversal** | Done | [View Guide](./98_preorder_traversal.md) |
+| 03 | **Postorder Traversal** | Done | [View Guide](./99_postorder_traversal.md) |
+| 04 | **Level Order Traversal** | Done | [View Guide](./100_level_order_traversal.md) |
+| 05 | **Morris Traversal** | Done | [View Guide](./101_morris_traversal.md) |
+| 06 | **AVL Tree** | Done | [View Guide](./102_avl_tree.md) |
+| 07 | **Red-Black Tree** | Done | [View Guide](./103_red_black_tree.md) |
+| 08 | **B-Tree** | Done | [View Guide](./104_b_tree.md) |
+| 09 | **B+ Tree** | Done | [View Guide](./105_b_plus_tree.md) |
+| 10 | **Segment Tree** | Done | [View Guide](./106_segment_tree.md) |
+| 11 | **Fenwick Tree** | Done | [View Guide](./107_fenwick_tree.md) |
+| 12 | **Binary Indexed Tree** | Done | [View Guide](./108_binary_indexed_tree.md) |
+| 13 | **Heavy-Light Decomposition** | Done | [View Guide](./109_heavy_light_decomposition.md) |
+| 14 | **Lowest Common Ancestor** | Done | [View Guide](./110_lowest_common_ancestor.md) |
 | 15 | **Euler Tour** | Pending | - |
 | 16 | **Tree Diameter** | Pending | - |
 
