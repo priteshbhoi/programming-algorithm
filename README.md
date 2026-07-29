@@ -93,8 +93,8 @@ This repository is designed for students, software engineers, and competitive pr
 | 05 | **Quick Sort** | Done | [View Guide](./15_quick_sort.md) |
 | 06 | **Heap Sort** | Done | [View Guide](./16_heap_sort.md) |
 | 07 | **Shell Sort** | Done | [View Guide](./17_shell_sort.md) |
-| 08 | **Counting Sort** | Done | [View Guide](./18_Counting_sort.md) |
-| 09 | **Radix Sort** | Done | [View Guide](./19_Radix_sort.md) |
+| 08 | **Counting Sort** | Done | [View Guide](./18_counting_sort.md) |
+| 09 | **Radix Sort** | Done | [View Guide](./19_radix_sort.md) |
 | 10 | **Bucket Sort** | Done | [View Guide](./20_bucket_sort.md) |
 | 11 | **Tim Sort** | Done | [View Guide](./21_tim_sort.md) |
 | 12 | **IntroSort** | Done | [View Guide](./22_introsort.md) |
@@ -415,8 +415,8 @@ This repository is designed for students, software engineers, and competitive pr
 | 15 | **Quick Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n^2)$ | $O(\log n)$ | No | Yes | [View Guide](./15_quick_sort.md) |
 | 16 | **Heap Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(1)$ | No | Yes | [View Guide](./16_heap_sort.md) |
 | 17 | **Shell Sort** | $O(n \log n)$ | $O(n^{4/3})$ | $O(n^2)$ | $O(1)$ | No | Yes | [View Guide](./17_shell_sort.md) |
-| 18 | **Counting Sort** | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | Yes | No | [View Guide](./18_Counting_sort.md) |
-| 19 | **Radix Sort** | $O(d(n + k))$ | $O(d(n + k))$ | $O(d(n + k))$ | $O(n + k)$ | Yes | No | [View Guide](./19_Radix_sort.md) |
+| 18 | **Counting Sort** | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | Yes | No | [View Guide](./18_counting_sort.md) |
+| 19 | **Radix Sort** | $O(d(n + k))$ | $O(d(n + k))$ | $O(d(n + k))$ | $O(n + k)$ | Yes | No | [View Guide](./19_radix_sort.md) |
 | 20 | **Bucket Sort** | $O(n + k)$ | $O(n + k)$ | $O(n^2)$ | $O(n + k)$ | Yes | No | [View Guide](./20_bucket_sort.md) |
 | 21 | **Tim Sort** | $O(n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(n)$ | Yes | No | [View Guide](./21_tim_sort.md) |
 | 22 | **IntroSort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(\log n)$ | No | Yes | [View Guide](./22_introsort.md) |

@@ -41,7 +41,7 @@ Radix Sort outperforms Quick Sort and Merge Sort when sorting huge arrays of int
 
 Before learning Radix Sort, you should understand:
 - Basic positional notation and digit extraction using integer division and modulo (`(num / exp) % 10`).
-- The mechanics of [Counting Sort](./18_Counting_sort.md), which serves as the inner stable sorting subroutine.
+- The mechanics of [Counting Sort](./18_counting_sort.md), which serves as the inner stable sorting subroutine.
 - Concept of sorting algorithm stability.
 - Big-O notation and asymptotic analysis.
 
@@ -455,7 +455,7 @@ Where $d$ is number of digits in max key, $n$ is array length, and $k$ is the ra
 
 ## 20. Related Algorithms
 
-- [Counting Sort](./18_Counting_sort.md) (The stable inner subroutine for Radix Sort)
+- [Counting Sort](./18_counting_sort.md) (The stable inner subroutine for Radix Sort)
 - [Bucket Sort](./20_bucket_sort.md) (Distributes elements into buckets based on ranges)
 - [Quick Sort](./15_quick_sort.md) (Comparison-based divide-and-conquer alternative)
 

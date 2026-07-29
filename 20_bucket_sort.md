@@ -413,8 +413,8 @@ When "Run Bucket Sort" is pressed:
 
 ## 20. Related Algorithms
 
-- [Radix Sort](./19_Radix_sort.md) (Digit-based distribution sort)
-- [Counting Sort](./18_Counting_sort.md) (Value frequency counting sort)
+- [Radix Sort](./19_radix_sort.md) (Digit-based distribution sort)
+- [Counting Sort](./18_counting_sort.md) (Value frequency counting sort)
 - [Insertion Sort](./13_insertion_sort.md) (Common inner subroutine for Bucket Sort)
 
 ## 21. Summary

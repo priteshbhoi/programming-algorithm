@@ -336,8 +336,8 @@ An animated timer race track displays labeled runner blocks at the starting line
 ## 20. Related Algorithms
 
 - [BogoSort](file:///D:/Pritesh/Learning%20Materials/Algorithm/README.md) (Esoteric sorting algorithm family)
-- [Counting Sort](./18_Counting_sort.md) (Non-comparison sorting)
-- [Radix Sort](./19_Radix_sort.md) (Non-comparison sorting)
+- [Counting Sort](./18_counting_sort.md) (Non-comparison sorting)
+- [Radix Sort](./19_radix_sort.md) (Non-comparison sorting)
 
 ## 21. Summary
 
